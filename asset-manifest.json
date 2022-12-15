@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/debt-free-calculator/static/css/main.dfffac85.css",
-    "main.js": "/debt-free-calculator/static/js/main.23ade2b0.js",
+    "main.css": "/debt-free-calculator/static/css/main.fe3d47da.css",
+    "main.js": "/debt-free-calculator/static/js/main.fba01478.js",
     "index.html": "/debt-free-calculator/index.html",
-    "main.dfffac85.css.map": "/debt-free-calculator/static/css/main.dfffac85.css.map",
-    "main.23ade2b0.js.map": "/debt-free-calculator/static/js/main.23ade2b0.js.map"
+    "main.fe3d47da.css.map": "/debt-free-calculator/static/css/main.fe3d47da.css.map",
+    "main.fba01478.js.map": "/debt-free-calculator/static/js/main.fba01478.js.map"
   },
   "entrypoints": [
-    "static/css/main.dfffac85.css",
-    "static/js/main.23ade2b0.js"
+    "static/css/main.fe3d47da.css",
+    "static/js/main.fba01478.js"
   ]
 }
